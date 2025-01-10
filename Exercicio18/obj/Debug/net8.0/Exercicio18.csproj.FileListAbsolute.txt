@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio18\bin\Debug\net8.0\Exercicio18.exe
+D:\Atividades\Exercicios\Exercicio18\bin\Debug\net8.0\Exercicio18.deps.json
+D:\Atividades\Exercicios\Exercicio18\bin\Debug\net8.0\Exercicio18.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio18\bin\Debug\net8.0\Exercicio18.dll
+D:\Atividades\Exercicios\Exercicio18\bin\Debug\net8.0\Exercicio18.pdb
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.dll
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\refint\Exercicio18.dll
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.pdb
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\Exercicio18.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio18\obj\Debug\net8.0\ref\Exercicio18.dll
