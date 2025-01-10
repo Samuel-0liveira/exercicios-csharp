@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio17\bin\Debug\net8.0\Exercicio17.exe
+D:\Atividades\Exercicios\Exercicio17\bin\Debug\net8.0\Exercicio17.deps.json
+D:\Atividades\Exercicios\Exercicio17\bin\Debug\net8.0\Exercicio17.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio17\bin\Debug\net8.0\Exercicio17.dll
+D:\Atividades\Exercicios\Exercicio17\bin\Debug\net8.0\Exercicio17.pdb
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.dll
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\refint\Exercicio17.dll
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.pdb
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\Exercicio17.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio17\obj\Debug\net8.0\ref\Exercicio17.dll
