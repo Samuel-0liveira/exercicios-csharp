@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio29\bin\Debug\net8.0\Exercicio29.exe
+D:\Atividades\Exercicios\Exercicio29\bin\Debug\net8.0\Exercicio29.deps.json
+D:\Atividades\Exercicios\Exercicio29\bin\Debug\net8.0\Exercicio29.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio29\bin\Debug\net8.0\Exercicio29.dll
+D:\Atividades\Exercicios\Exercicio29\bin\Debug\net8.0\Exercicio29.pdb
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.dll
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\refint\Exercicio29.dll
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.pdb
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\Exercicio29.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio29\obj\Debug\net8.0\ref\Exercicio29.dll
