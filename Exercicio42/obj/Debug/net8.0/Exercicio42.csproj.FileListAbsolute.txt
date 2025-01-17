@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio42\bin\Debug\net8.0\Exercicio42.exe
+D:\Atividades\Exercicios\Exercicio42\bin\Debug\net8.0\Exercicio42.deps.json
+D:\Atividades\Exercicios\Exercicio42\bin\Debug\net8.0\Exercicio42.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio42\bin\Debug\net8.0\Exercicio42.dll
+D:\Atividades\Exercicios\Exercicio42\bin\Debug\net8.0\Exercicio42.pdb
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.dll
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\refint\Exercicio42.dll
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.pdb
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\Exercicio42.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio42\obj\Debug\net8.0\ref\Exercicio42.dll
