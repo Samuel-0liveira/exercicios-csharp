@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio41\bin\Debug\net8.0\Exercicio41.exe
+D:\Atividades\Exercicios\Exercicio41\bin\Debug\net8.0\Exercicio41.deps.json
+D:\Atividades\Exercicios\Exercicio41\bin\Debug\net8.0\Exercicio41.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio41\bin\Debug\net8.0\Exercicio41.dll
+D:\Atividades\Exercicios\Exercicio41\bin\Debug\net8.0\Exercicio41.pdb
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.dll
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\refint\Exercicio41.dll
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.pdb
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\Exercicio41.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio41\obj\Debug\net8.0\ref\Exercicio41.dll
