@@ -1,0 +1,14 @@
+D:\Atividades\Exercicios\Exercicio59\bin\Debug\net8.0\Exercicio59.exe
+D:\Atividades\Exercicios\Exercicio59\bin\Debug\net8.0\Exercicio59.deps.json
+D:\Atividades\Exercicios\Exercicio59\bin\Debug\net8.0\Exercicio59.runtimeconfig.json
+D:\Atividades\Exercicios\Exercicio59\bin\Debug\net8.0\Exercicio59.dll
+D:\Atividades\Exercicios\Exercicio59\bin\Debug\net8.0\Exercicio59.pdb
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.AssemblyInfoInputs.cache
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.AssemblyInfo.cs
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.csproj.CoreCompileInputs.cache
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.dll
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\refint\Exercicio59.dll
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.pdb
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\Exercicio59.genruntimeconfig.cache
+D:\Atividades\Exercicios\Exercicio59\obj\Debug\net8.0\ref\Exercicio59.dll
